@@ -1,0 +1,23 @@
+{
+  "name": "cyber_security_project",
+  "version": "1.0.0",
+  "description": "Name: Prishita Ray   Registration No: 17BCE2405",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PRISHIta123/Cyber_Security_Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PRISHIta123/Cyber_Security_Project/issues"
+  },
+  "homepage": "https://github.com/PRISHIta123/Cyber_Security_Project#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "elliptic": "^6.5.4"
+  }
+}
